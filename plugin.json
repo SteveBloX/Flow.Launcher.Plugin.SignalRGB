@@ -1,0 +1,12 @@
+{
+    "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword": "rgb",
+    "Name": "SignalRGB Control",
+    "Description": "Control SignalRGB devices",
+    "Author": "bloax",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/SteveBloX/Flow.Launcher.Plugin.SignalRGB",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
